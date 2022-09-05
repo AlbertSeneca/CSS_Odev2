@@ -1,0 +1,57 @@
+* {
+    font-family: cursive;
+}
+
+
+footer {
+    text-align: right;
+}
+
+main {
+    text-align: center;
+}
+
+.alt-baslik {
+    text-align: center;
+}
+
+.main-hakkimizda {
+    text-align: left;
+}
+
+.header-container {
+    text-align: center;
+}
+
+.baslik {
+    color: #FF1E00;
+}
+
+.menu-list {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-left: 0;
+}
+
+.menu-item {
+    color: #F637EC;
+    list-style-type: none;
+    padding: 8px;
+}
+
+.product-list {
+    padding-left: 0;
+}
+
+.alt-baslik {
+    color: #3EC70B;
+}
+
+.alt-baslik2 {
+    color: #FFB200;
+}
+
+.product-list {
+    list-style-position: inside;
+}
